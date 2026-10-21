@@ -1,5 +1,3 @@
-# chest-xray-pneumonia-resnet18
-Chest X-ray pneumonia classification using PyTorch, ResNet18 transfer learning, and data augmentation.
 # Chest X-Ray Pneumonia Classification with ResNet18
 
 A deep learning project using PyTorch and transfer learning to classify chest X-ray images as **NORMAL** or **PNEUMONIA**.
